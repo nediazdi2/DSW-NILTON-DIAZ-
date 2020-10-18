@@ -1,0 +1,25 @@
+.title{
+    font-size: 45px;
+}
+
+.hr{
+    border-bottom: 1px solid #004669;
+    margin: 0em 2em;
+}
+
+.conten{
+    margin-bottom: 3em;
+}
+
+.objGen{
+    font-size: 25px;
+}
+
+.objGenTexto{
+    margin-left: 100px;
+    text-align: justify;
+}
+
+.objEsp{
+    font-size: 20px;
+}

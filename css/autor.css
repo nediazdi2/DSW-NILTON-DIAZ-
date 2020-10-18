@@ -1,0 +1,14 @@
+.article{
+    display: flex !important;
+    --border: 1px solid #000 !important;
+}
+
+.cont{
+    margin: 1em;
+    max-width: 50%;
+    --border: 1px solid #0aa !important;
+}
+
+ul{
+    list-style: none;
+}
